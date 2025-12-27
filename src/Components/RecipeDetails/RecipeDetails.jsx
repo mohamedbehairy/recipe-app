@@ -27,7 +27,7 @@ export default function RecipeDetails() {
   return (
     <>
       {isLoading ? (
-        <div className="animate-pulse p-10 mt-15">
+        <div className="animate-pulse p-10 ">
           <div className="h-12 w-2/3 bg-gray-200 rounded mb-8"></div>
           <div className="grid lg:grid-cols-3 gap-5">
             <div>
@@ -54,7 +54,7 @@ export default function RecipeDetails() {
           </div>
         </div>
       ) : meal ? (
-        <div className="p-10  mt-15">
+        <div className="p-10 ">
           <h2 className="text-5xl font-bold mb-8">{meal.strMeal}</h2>
 
           <div className="grid lg:grid-cols-3 gap-5">
