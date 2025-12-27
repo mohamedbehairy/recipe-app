@@ -27,5 +27,4 @@ Browse meals by category, view details, and explore ingredients and area of orig
 - **TheMealDB API** as data source
 
  
-## Folder Structure
 
