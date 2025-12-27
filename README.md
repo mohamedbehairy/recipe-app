@@ -1,6 +1,6 @@
 # 🍴 Recipe App
 
-Live Demo: [recipe-app-inky-eight.vercel.app](https://recipe-app-inky-eight.vercel.app/)
+Live Demo: [recipe-app](https://recipe-app-inky-eight.vercel.app/)
 
 A modern, responsive Recipe App built with **React**, **TailwindCSS**, and **React Router**.  
 Browse meals by category, view details, and explore ingredients and area of origin.
